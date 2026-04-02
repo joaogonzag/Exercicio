@@ -1,0 +1,14 @@
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\bin\Debug\net10.0\ProblemaContaBancária.exe
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\bin\Debug\net10.0\ProblemaContaBancária.deps.json
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\bin\Debug\net10.0\ProblemaContaBancária.runtimeconfig.json
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\bin\Debug\net10.0\ProblemaContaBancária.dll
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\bin\Debug\net10.0\ProblemaContaBancária.pdb
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\obj\Debug\net10.0\ProblemaContaBancária.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\obj\Debug\net10.0\ProblemaContaBancária.AssemblyInfoInputs.cache
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\obj\Debug\net10.0\ProblemaContaBancária.AssemblyInfo.cs
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\obj\Debug\net10.0\ProblemaContaBancária.csproj.CoreCompileInputs.cache
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\obj\Debug\net10.0\ProblemaContaBancária.dll
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\obj\Debug\net10.0\refint\ProblemaContaBancária.dll
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\obj\Debug\net10.0\ProblemaContaBancária.pdb
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\obj\Debug\net10.0\ProblemaContaBancária.genruntimeconfig.cache
+F:\Estudos\C#\Projetos\ProblemaContaBancária\ProblemaContaBancária\obj\Debug\net10.0\ref\ProblemaContaBancária.dll
